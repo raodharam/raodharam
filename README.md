@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharmender Yadav</h1>
 <h3 align="center">A passionate software tester from India</h3>
 
-- 🔭 I’m currently working on **Ticket Booking**
+- 🔭 I’m currently working on **Ticket Booking Project**
 
 - 🌱 I’m currently learning **Selenium With JAVA Automation**
 
